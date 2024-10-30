@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home component matches the snapshot 1`] = `
+<div>
+  <div
+    class="MuiStack-root css-tocnjh-MuiStack-root"
+  >
+    <img
+      alt="logo"
+      data-nimg="1"
+      decoding="async"
+      height="80"
+      loading="lazy"
+      src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
+      srcset="/_next/image?url=%2Fimg.jpg&w=96&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+      style="color: transparent;"
+      width="80"
+    />
+    <h1
+      style="font-size: 60px; margin: 40px 0px;"
+    >
+      UNIVA AI Platform
+    </h1>
+    <input
+      class="sc-aYaIB bZYNTm"
+      name="id"
+      placeholder="아이디를 입력해 주세요."
+      type="text"
+      value=""
+    />
+    <input
+      class="sc-aYaIB bZYNTm"
+      name="password"
+      placeholder="비밀번호를 입력해 주세요."
+      type="password"
+      value=""
+    />
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-1ucmp0q-MuiButtonBase-root-MuiButton-root"
+      tabindex="0"
+      type="button"
+    >
+      로그인
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
